@@ -1,0 +1,5 @@
+
+set(CN_PROJECT_NAME "catawallet")
+set(CN_CURRENCY_DISPLAY_NAME "Catalyst")
+set(CN_CURRENCY_TICKER "CALT")
+set(CN_VERSION 0.0.1)
