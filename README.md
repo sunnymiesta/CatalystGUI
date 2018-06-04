@@ -10,8 +10,5 @@ then 'git clone' this
 
 'git submodule init'
 'git submodule update --remote'
-
-open folder on library. move libqrencode to head folder
-
 './configure'
 'make'
