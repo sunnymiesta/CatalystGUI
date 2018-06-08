@@ -1,6 +1,6 @@
 [submodule "cryptonote"]
 	path = cryptonote
-	url = https://github.com/sunnymiesta/mask-cata.git
+	url = https://github.com/sunnymiesta/adina.git
 [submodule "libqrencode"]
 	path = libqrencode
 	url = https://github.com/FndNur1Labs/libqrencode.git
