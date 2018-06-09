@@ -1,11 +1,11 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=Catalyst Wallet
-Comment=Catalyst wallet
-Exec=catawallet
+Name=Adina Wallet
+Comment=Adina wallet
+Exec=adinawallet
 Terminal=false
 Type=Application
-Icon=catalyst
-MimeType=x-scheme-handler/catawallet;
+Icon=adina
+MimeType=x-scheme-handler/adinawallet;
 Categories=Office;Finance;
-Name[en_US]=catawallet
+Name[en_US]=adinawallet
